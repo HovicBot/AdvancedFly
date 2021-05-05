@@ -1,2 +1,6 @@
 # AdvancedFly
-Configurable fly command
+Configurable fly command made by: HovicBot
+# Config Settings
+OnEnable Message
+OnDisable Message
+Invalid Permission Message
